@@ -1,14 +1,17 @@
 {
-  "name": "academy-qa-playwright",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@playwright/test": "^1.61.1",
-    "@types/node": "^26.1.1"
-  }
+    "name": "academy-qa-playwright",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "Alberto Gandoy Florido",
+    "license": "ISC",
+    "devDependencies": {
+        "@playwright/test": "^1.61.1",
+        "@types/node": "^26.1.1",
+        "@typescript-eslint/eslint-plugin": "^8.65.0",
+        "eslint": "^9.39.5",
+        "eslint-plugin-playwright": "^2.10.5"
+    }
 }
